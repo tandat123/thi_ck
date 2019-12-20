@@ -2,6 +2,7 @@
     session_start();
     require_once "class/store.php";
     $store = new store;
+hekkooo
 ?>
 <!DOCTYPE HTML>
 <html>
